@@ -9,19 +9,19 @@ html, body{
     border-color: rgb(0, 150, 500);
     text-shadow: 2px 5px 5px gray;}
 
-.box1 {
+box.box1 {
     width: 250px;
     height: 100px;
     padding: 5px;
     border: 2px solid black;
     margin: 25px;}
-.box2 {
+box.box2 {
     width: 250px;
     height: 100px;
     padding: 5px;
     border: 2px solid black;
     margin: 25px;}
-.box3 {
+box.box3 {
     width: 250px;
     height: 100px;
     padding: 5px;
