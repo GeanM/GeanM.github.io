@@ -22,9 +22,6 @@ function draw() {
   ellipse(-50, -150, 100, 100);
   rect(100, -100, 100, 100);
   stroke(255);
-  rotateY(frameCount * 0.01);
-  rotateX(frameCount * 0.01);
-  box(25);
 }
 
 //for(box = 1; x < 5; x++) {
