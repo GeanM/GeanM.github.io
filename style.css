@@ -10,9 +10,9 @@ html, body{
     text-shadow: 2px 5px 5px gray;}
 
 .b {
-    width: 300px;
+    width: 250px;
     height: 100px;
-    padding: 25px;
+    padding: 5px;
     border: 2px solid black;
     margin: 25px;}
 
