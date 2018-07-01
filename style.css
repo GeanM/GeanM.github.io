@@ -1,5 +1,5 @@
 html, body{
-    background-color: yellow;
+    background-color: rgb(0, 200, 200);
 }
 
 .header {
@@ -10,18 +10,18 @@ html, body{
     text-shadow: 2px 5px 5px gray;}
 
 .b {
-	width: 300px;
-        height: 100px;
-	padding: 25px;
-	border: 2px solid black;
-	margin: 25px;}
+    width: 300px;
+    height: 100px;
+    padding: 25px;
+    border: 2px solid black;
+    margin: 25px;}
 
 .es {
-   font-family: cursive;
-   font-size: 20px;
-  text-indent: 30px;
- 	background-color: rgb(0,500,800)}
+    font-family: cursive;
+    font-size: 20px;
+    text-indent: 30px;
+    background-color: rgb(0,500,800)}
 
 spam {
-	font-size: 20px;
-	text-shadow: 2px 5px 5px gray;}
+    font-size: 20px;
+    text-shadow: 2px 5px 5px gray;}
