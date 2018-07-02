@@ -10,7 +10,7 @@ html, body{
     text-shadow: 2px 5px 5px gray;}
 
 .box {
-    width: 250px;
+    width: wrap-content;
     height: 100px;
     padding: 5px;
     border: 2px solid black;
