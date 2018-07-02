@@ -14,7 +14,8 @@ html, body{
     height: 100px;
     padding: 5px;
     border: 2px solid black;
-    margin: 25px;}
+    margin: 25px;
+    word-wrap: normal;}
 
 .es {
     font-family: cursive;
