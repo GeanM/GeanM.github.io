@@ -11,6 +11,7 @@ html, body{
 
 
 .box1 {
+    align: "center";
     width: 300px;
     height: 75px;
     padding: 5px;
@@ -19,6 +20,7 @@ html, body{
     word-wrap: normal;}
 
 .box2 {
+    align: "center";
     background-image: url("CSS.png");
     width: 300px;
     height: 75px;
@@ -28,6 +30,7 @@ html, body{
     word-wrap: normal;}
 
 .box3 {
+    align: "center";
     width: 300px;
     height: 75px;
     padding: 5px;
