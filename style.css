@@ -9,14 +9,32 @@ html, body{
     border-color: rgb(0, 150, 500);
     text-shadow: 2px 5px 5px gray;}
 
-.box {
-    background-color: rbg(255, 255, 255);
+
+.box1 {
     width: 300px;
     height: 75px;
     padding: 5px;
     border: 2px solid black;
     margin: 25px;
     word-wrap: normal;}
+
+.box2 {
+    background-image: url("CSS.png");
+    width: 300px;
+    height: 75px;
+    padding: 5px;
+    border: 2px solid black;
+    margin: 25px;
+    word-wrap: normal;}
+
+.box3 {
+    width: 300px;
+    height: 75px;
+    padding: 5px;
+    border: 2px solid black;
+    margin: 25px;
+    word-wrap: normal;}
+
 
 .es {
     font-family: cursive;
